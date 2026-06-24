@@ -15,6 +15,6 @@ A simple Bash-based Linux monitoring project.
 
 ## Run
 
+```bash
 chmod +x monitor.sh
-
 ./monitor.sh
